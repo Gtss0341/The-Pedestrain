@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.heading{
+    font-family: sans-serif;
+}
+
+.story-box{
+    /* white-space: pre-wrap; */
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.story-box p{
+    text-indent: 50px;
+    font-size: 24px;
+}
